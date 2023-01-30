@@ -1,0 +1,7 @@
+Hijau Karena id lebih besar dari class nilainya
+
+ 0(inline)0(id)0(class)0(element)
+ ul#sarapan = 0102
+ vs
+ .favorit = 0010
+ win 102

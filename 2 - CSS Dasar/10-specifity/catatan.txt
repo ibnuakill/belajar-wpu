@@ -1,0 +1,12 @@
+CSS specificity
+Definisi:
+"setiap deklarasi css(selector) memiliki berat yang berbeda. Berat tersebut menentukan seberapa spesifik sebuah elemen dapat
+ dipilih oleh selector".
+
+ menghitung nilai specificity:
+
+ 0(inline)0(id)0(class)0(element)
+
+ #p1 = 0100
+ vs
+ p = 0001

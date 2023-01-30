@@ -1,0 +1,1 @@
+tag itu adalah kode dalam html dimana kita menuliskan tanda <namatag> ada yang berpasangan dan tidak  

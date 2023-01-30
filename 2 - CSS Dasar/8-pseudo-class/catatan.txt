@@ -1,0 +1,21 @@
+pseudo-class yang berhubungan dengan link
+
+
+:link           = style default pada sebuah link(a yang memiliki href)
+
+:hover          = style ketika kursor mouse berada di atas sebuah link/ elemen
+
+:active         = style ketika link di-klik(keaadaan aktif)
+
+:visited        = style ketika link sudah pernah di kunjungi sebelumnya(menggunakan browser yang sama)
+
+:first-child    = memilih elemen pertama dari sebuah parent(elemen pembungkusnya)
+
+:last-child     = memilih elemen terakhir dari sebuah parent(elemen pembungkusnya)
+
+:nth-child(n)   = memilih elemen ke-n dari sebuah parent(elemen pembungkusnya)
+                n bisa berarti urutan (1),(2), ... atau pola (2n),(3n+2),(4n-1) atau ganjil dan genap (even),(odd)
+
+:first-of-type  = memilih elemen pertama dari sebuah jenis/tipe tag
+
+:last-of-type   = memilih elemen terakhir dari sebuah jenis/tipe tag

@@ -1,0 +1,39 @@
+GIT DAN GITHUB ITU BERBEDA
+GIT merupakan Version Control System "Version Control System, disebut juga revision control system atau source code management adalah sistem yang mengelola perubahan dari sebuah dokumen, program komputer, website dan kumpulan informasi lain".
+
+Version Control Sistem:
+1. sebuah sistem yang menyimpan'rekaman/ snapshot' perubahan pada source code
+2. memungkinkan berkolaborasi dengan lebih baik
+3. mengetahui siapa yang melakukan dan kapan sebuah perubahan terjadi
+4. memungkinkan kita untuk kembali ke keadaan sebelum perubahan(checkout)
+
+Git
+"Sebuah VCS terdistribusi untuk mengelola perubahan file dalam folder".
+"sebuah software untuk mengelola perubahan file di dalam folder(repository/ repo)".
+"Riwayat perubahan file disimpan menggunakan serangakaian commit".
+Git repo
+Branch(cabang) menggabungkan 2 Branch disebut(Merge).
+
+GitHub
+"layanan cloud untuk menyimpan & mengelola project/ repo git".
+"instagram-nya para programer".
+
+Rangkuman
+1. Version Control System
+    Sistem yang menyimpan & mengelola rekaman perubahan dari source code.
+2. GIT
+    salah satu software yang bisa melakukan VCS.
+3. GITHUB
+    Website/ Layanan untuk mengelola Project Git.
+
+istilah Git
+repo        = folder project kita
+commit      = rekaman/ snapshot dari repo kita
+hash        = penanda unik pada sebuah commit 
+checkout    = berpindah ke sebuah commit
+branch      = cabang bebas dari sebuah commit
+merge       = menggabungkan branch
+remote      = sumber yang memiliki repo
+clone       = mengambil repo dari remote
+push        = mengirimkan commit ke repo
+pull        = mengambil commit dari repo

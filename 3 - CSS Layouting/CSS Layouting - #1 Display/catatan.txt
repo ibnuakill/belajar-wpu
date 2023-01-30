@@ -1,0 +1,27 @@
+CSS display
+
+Pengertian:
+tag <div> dan <span>
+"tag pada html digunakan untuk memberikan 'maksud'/ 'arti' pada sebuah konten(p untuk paragraf, h1 untuk heading utama, dll).
+
+tag <div> dan <span> tidak memiliki 'arti' apapun, keduanya digunakan untuk mengelompokan tag-tag HTML dan memberikan informasi
+terhadap tag-tag tersebut".
+
+<div> -> div {
+    display: block;
+}
+<span> -> span {
+    display: inline ;
+}
+
+Definisi:
+"setiap tag pada HTML memiliki nilai default untuk properti display. Tetapi kita juga dapat mengubah perilaku dari tag tersebut
+dengan mengganti value-nya".
+
+value Display:
+inline
+inline-block
+block
+none
+
+inline:
